@@ -24,7 +24,7 @@ github_username:  gaetan-auffret
 permalink: /:categories/:slug
 logo: /assets/goeland.png
 # Google Analytics
-google_analytics: UA-139699151-1
+# google_analytics: UA-139699151-1
 
 # Build settings
 markdown: kramdown
